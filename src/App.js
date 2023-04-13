@@ -7,7 +7,7 @@ import { useEffect, useState } from 'react';
 
 function App() {
   const text1 = "Dear Anisha,"
-  const text2 = "Last month was a rollercoaster for us. There are a lot of things happening, but thanks to Allah, our relationship is still strong. As you know, I'm not good with words. So I would like to keep it short and simple. Thanks for believing in me for the last 31 days. It means a lot to me, and I hope that we will be together until Jannah. Happy Monthsary. ❤️"
+  const text2 = "Last month was a rollercoaster for us. Many things are happening, but thanks to Allah, our relationship is still strong. As you know, I'm not good with words. So I would like to keep it short and simple. Thanks for believing in me for the last 31 days. It means a lot to me, and I hope that we will be together until Jannah. Happy Monthsary. ❤️"
 
   const font = "'Cutive Mono', monospace"
   const fontTheme = createTheme({
